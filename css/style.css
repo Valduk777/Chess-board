@@ -1,0 +1,140 @@
+body *{
+    margin: 0;
+    padding: 0;
+    vertical-align: top;
+    box-sizing: border-box;
+}
+
+.shahmatai{
+    height: 640px;
+    width: 640px;
+    
+    margin:calc( (100vh - 640px) / 2) calc( (100% - 640px) / 2); 
+    
+}
+
+.raides{
+    display: inline-block;
+    width: 512px;
+    height:64px;
+    font-size: 25px;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 0 64px;
+}     .raides_1{float: left;
+        background-color: white;
+        height: 640px;
+        width: 12.5%;
+        font-size: 25px;
+        text-transform: uppercase;
+        text-align: center; 
+        padding: 19.5px 0 0 0   
+    }   
+        .raides_2{float: left;
+            background-color: white;
+            height: 640px;
+            width: 12.5%;
+            font-size: 25px;
+            text-transform: uppercase;
+            text-align: center;
+            padding: 19.5px 0 0 0;
+        }
+
+.lenta{
+   
+}
+
+.black *{
+ 
+}
+
+
+
+.eile1{
+display: inline-block;
+width:640px;
+height:64px;
+
+
+}
+.skaiciai { 
+    float: left;
+    height: 64px;
+    width: 64px;
+    background-color: white;
+    font-size: 25px;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 19.5px 19.5px
+    
+    }
+
+.eile2{
+    display: inline-block;
+    width: 640px;
+    height: 64px;
+    }
+
+    .eile3{
+        display: inline-block;
+        width: 640px;
+        height: 64px;
+        }
+        .eile4{
+            display: inline-block;
+            width: 640px;
+            height: 64px;
+            }
+            .eile5{
+                display: inline-block;
+                width: 640px;
+                height: 64px;
+                }
+                .eile6{
+                    display: inline-block;
+                    width: 640px;
+                    height: 64px;
+                   
+                    }
+                    .eile7{
+                        display: inline-block;
+                        width: 640px;
+                        height:64px;
+                        }
+                        .eile8{
+                            display: inline-block;
+                            width: 640px;
+                            height: 64px;
+                            }
+
+.black{
+float: left;
+background-color:rgb(168, 117, 50);
+height: 64px;
+width: 64px;
+border: 1px solid black;
+}
+.white{
+float: left;
+background-color: white;
+height: 64px;
+width:64px;
+border: 1px solid black;
+}
+
+
+
+img{
+    width: 50px;
+    height: 50px;
+    margin: 7px;
+}
+
+.btn{
+    padding: 17px 28px;
+    width: 190px;
+    height: 60px;
+    font-size: 23px;
+    border-radius: 50px;
+    border: 2px solid blue;
+}
